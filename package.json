@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "antd": "^5.24.2",
     "file-saver": "^2.0.5",
     "json2csv": "^6.0.0-alpha.2",
     "mssql": "^11.0.1",
